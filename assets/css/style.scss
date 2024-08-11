@@ -4,4 +4,7 @@
 /* @import "jekyll-theme-minimal"; 
 */
 
-@import "jekyll-theme-cayman";
+/* @import "jekyll-theme-cayman";
+*/
+
+@import "{{ site.theme }}";
