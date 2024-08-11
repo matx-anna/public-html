@@ -10,5 +10,6 @@ description: Happy coding.
 logo: /assets/img/logo.png
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
+# theme: jekyll-theme-minimal
 
